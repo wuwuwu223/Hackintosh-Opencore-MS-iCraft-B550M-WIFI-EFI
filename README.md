@@ -2,7 +2,7 @@
 铭瑄B550M电竞之心OpenCore EFI
 ### OpenCore : 0.7.4 正式版
 
-### macOS ：12.0 Monterey Beta2 测试版
+### macOS ：12.0 Monterey Dev Beta2 测试版
 
 ### SMBIOS : MacPro7,1
 
